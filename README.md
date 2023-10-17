@@ -19,8 +19,8 @@
 - Making statistical reports and visualisations with Python
 
 ![Viset](/assets/incomeandservice.PNG)
+
 ## Projects
 
-Developing a Shona sentiment corpus and Shona sentiment analysis systems.
+Creating national statistical reports analysed and approved by Namibia Statistical Agency. 
 
-Creating statistical report for Namibian Statistical Agency.
