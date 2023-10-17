@@ -18,6 +18,7 @@
 - Conducted data collection, processing and analysis for a novel study evaluating small and medium enterprises in Namibia.
 - Making statistical reports and visualisations with Python
 
+![Viset](/assets/incomeandservice.PNG)
 ## Projects
 
 Developing a Shona sentiment corpus and Shona sentiment analysis systems.
